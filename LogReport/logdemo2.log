@@ -1,0 +1,16 @@
+WARNING:root:Warnings: 
+ERROR:root:a major error has occured
+CRITICAL:root:Critical Issue
+17/12/22 10:18:09 :DEBUG :root :debug executed
+17/12/22 10:18:09 :INFO :root :Information: 
+17/12/22 10:18:09 :WARNING :root :Warnings: 
+17/12/22 10:18:09 :ERROR :root :a major error has occured
+17/12/22 10:18:09 :CRITICAL :root :Critical Issue
+17/12/22 10:18:10 :DEBUG :root :debug executed
+17/12/22 10:18:10 :INFO :root :Information: 
+17/12/22 10:18:10 :WARNING :root :Warnings: 
+17/12/22 10:18:10 :ERROR :root :a major error has occured
+17/12/22 10:18:10 :CRITICAL :root :Critical Issue
+WARNING:root:Warnings: 
+ERROR:root:a major error has occured
+CRITICAL:root:Critical Issue
