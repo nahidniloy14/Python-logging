@@ -2,7 +2,7 @@
 import logging
 
 logging.basicConfig(format='%(asctime)s :%(levelname)s :%(message)s',
-                    datefmt='%d/%m/%y %I:%M:%S %A', #%H in place of %I to see the time in 24h format
+                    datefmt='%d/%m/%y %I:%M:%S %p %A', #%H in place of %I to see the time in 24h format
                     level=logging.DEBUG,
                     filename='LogReport/logFormat.log')
 
