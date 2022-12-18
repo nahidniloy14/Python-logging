@@ -5,5 +5,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Pytest" />
+    <orderEntry type="module" module-name="Allure-Framework" />
   </component>
 </module>
